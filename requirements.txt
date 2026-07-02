@@ -1,0 +1,6 @@
+streamlit        # the app UI
+anthropic        # Claude API for NLP meal parsing
+pandas           # storing and manipulating logged data
+matplotlib       # charts and visualizations
+plotly           # interactive charts (looks nicer than matplotlib)
+json / csv       # lightweight local data storage
